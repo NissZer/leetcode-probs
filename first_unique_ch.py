@@ -19,4 +19,3 @@ class Solution(object):
             if letter in count_letter and count_letter[letter] == 1:
                 return(i)
         return -1
-            
